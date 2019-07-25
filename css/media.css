@@ -1,0 +1,560 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+
+.logo {
+    width: 150px;
+}
+
+.menu ul li a{
+	font-size: 16px;
+	display: inline-block;
+	float: right;
+
+}
+.icon_btn{
+
+    float: right;
+}
+/*header end*/
+/*banner start*/
+
+.b_content {
+	margin-top: 70px;
+    margin-bottom: 70px;
+}
+.b_content h1{
+    font-size: 17px;
+}
+/*banner end*/
+/*edu1 start*/
+
+.c_title h1{
+	font-size: 22px;
+}
+.c_title hr{
+	    width: 150px;
+}
+.s_img{
+	margin-top: 30px;
+
+}
+.school h1 {
+    font-size: 22px;}
+.school hr{}
+.school p{}
+.school a img{
+	width: 120px;
+	margin-left: 86px;
+}
+/*edu1 end*/
+
+/*edu2 start*/
+
+.circle{
+	position: relative;	
+}
+.sc {
+	position: absolute;
+    top: 0px;
+    left: 106px;
+    border-radius: 50%;
+}
+/*edu2 end*/
+
+ }
+
+ /*Featured start*/
+.Portfolio{
+	text-align: center;
+}
+.f_title{
+	padding-bottom: 30px;
+}
+.f_title h1 {
+	font-size: 21px;
+}
+.f_title hr{
+	width: 250px;
+    border: 0;
+    border-bottom: 5px dashed #fff;
+}
+.c_control{
+	margin-bottom: 20px;
+}
+
+/*Featured end*/
+
+/*moment start*/
+.Portfolio{
+	text-align: center;
+}
+.btn a img{
+	width: 140px;
+	margin-left: 80px;
+}
+/*moment end*/
+/*kid start*/
+.kid_img{
+	text-align: center;
+}
+.kid_content{
+	text-align: center;
+	padding: 20px 0;
+}
+/*kid end*/
+/*event_news start */
+.e_title h1{
+	font-size: 30px;
+    text-align: center;
+}
+.e_title hr{   
+	 width: 200px;
+    margin-left: 43px;
+}
+.total{
+	text-align: center;
+}
+.round{
+	margin-left: 80px;
+}
+.n_tiitle{
+	padding: 20px 0;
+}
+.n_tiitle h1{
+	font-size: 18px;
+}
+.n_tiitle hr{
+	width: 230px;
+}
+/*event_news end */
+/*footer start*/
+.footer_menu ul li a {
+	    font-size: 18px
+}
+.copy p{
+	font-size: 12px
+}
+/*footer end*/
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+.logo {
+    width: 180px;
+}
+.menu ul li a{
+	text-align: right;
+	font-size: 16px;
+	display: inline-block;
+
+
+}
+.user{
+	text-align: right !important;
+}
+
+/*header end*/
+
+/*banner start*/
+
+.b_content {
+	margin-top: 140px;
+    margin-bottom: 140px;
+}
+.b_content h1{
+    font-size: 31px;
+}
+/*banner end*/
+
+/*edu1 start*/
+.s_img{
+	margin-top: 50px;
+}
+.school a img{
+	width: 160px;
+    margin-top: 20px;
+}
+
+/*edu1 end*/
+/*edu2 start*/
+
+.circle{
+	position: relative;	
+}
+.sc {
+	position: absolute;
+    top: 79px;
+    left: 80px;
+    border-radius: 50%;
+}
+/*edu2 end*/
+
+/*Featured start*/
+
+.f_title{
+	padding-bottom:  50px;
+}
+.f_title h1 {
+	font-size: 36px;
+}
+.f_title hr{
+	width: 500px;
+    border: 0;
+    border-bottom: 5px dashed #fff;
+}
+.c_control{
+	margin-bottom: 40px;
+}
+/*Featured end*/
+
+/*moment start*/
+.Portfolio{
+	text-align: center;
+}
+.btn a img{
+	margin-left: 173px;
+}
+
+
+/*moment end*/
+
+
+/*kid start*/
+
+.kid{
+	padding: 80px 0;
+}
+.kid_div{
+	padding: 15px 0;
+
+}
+
+.c_title h1 {
+	font-size: 28px;
+}
+.your_kid{
+	margin-bottom: 30px;
+}
+.kid_content{
+	padding: 40px 0;
+	text-align: left;
+}
+.kid_content h1 {
+	font-size: 25px;
+}
+
+.kid_title {
+	font-size: 20px;
+}
+
+.kid_content u {
+	font-size: 20px;
+}
+
+.kid_div{
+	padding: 15px 0;
+
+}
+/*kid end*/
+/*event_news start*/
+
+.e_title{}
+.e_title h1{
+	text-align: center;
+}
+.e_title hr{
+	margin-left: 131px;
+}
+ .round_content{
+ 	padding: 0;
+ 	text-align: center;
+ }
+ .round{
+ 	margin: 0 auto
+ }
+.e_content{
+
+}
+.e_content h1{
+	
+}
+
+.news{
+	text-align: center;
+}
+.news_img img{}
+.news_content{}
+.news_content span{}
+.news_content p{}
+.n_tiitle{}
+.n_tiitle h1{
+	
+}
+.n_tiitle hr{
+	margin: 0 auto;
+}
+
+
+ /*event_news end*/
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+
+.logo {
+    width: 190px;
+}
+.menu ul li a {
+    text-align: right;
+}
+
+
+/*header end*/
+/*banner start*/
+
+.b_content {
+	margin-top: 160px;
+    margin-bottom: 160px;
+}
+.b_content h1{
+    font-size: 34px;
+}
+/*banner end*/
+/*edu1 start*/
+.s_img{
+	margin-top: 75px;
+}
+.school a img{
+	width: 140px;
+}
+
+/*edu1 end*/
+/*edu2 start*/
+.c_title p{
+	font-size: 25px;
+}
+.circle{
+	position: relative;	
+}
+.sc {
+	position: absolute;
+	top: 0;
+	left: 128px;;
+	border-radius: 50%;
+}
+.c_title h1{
+
+}
+/*edu2 end*/
+/*moment start*/
+
+.btn a img{
+	margin-left: 0;
+}
+
+
+/*moment end*/
+
+/*Featured start*/
+
+.f_title{
+	padding-bottom:  50px;
+}
+
+.f_title hr{
+	width: 500px;
+    border: 0;
+    border-bottom: 5px dashed #fff;
+}
+.c_control{
+	margin-bottom: 50px;
+}
+/*Featured end*/
+
+/*kid start*/
+
+
+
+.c_title h1 {
+    font-size: 24px;   
+}
+
+.c_title hr{
+	width: 230px;
+}
+.kid_div{}
+.your_kid{
+	margin-bottom: 30px;
+}
+
+.kid_content{
+	padding: 0;
+	text-align: left;
+}
+.kid_content h1 {
+	font-size: 21px;
+}
+
+.kid_title {
+	font-size: 19px;
+}
+
+.kid_content u {
+	font-size: 18px;
+}
+
+/*kid end*/
+
+/*event_news start*/
+ .round_content{
+ 	padding: 0;
+ }
+ .round{}
+.e_content{
+
+}
+.e_content h1{
+	font-size: 18px;
+}
+
+
+.news{
+	padding: 0;
+}
+.news_content{}
+.news_content span{}
+.news_content p{}
+.n_tiitle{}
+.n_tiitle h1{
+	font-size: 18px;
+}
+.n_tiitle hr{
+	width: 200px;
+}
+.news_img img{
+	margin-top: 61px;
+}
+
+ /*event_news end*/
+
+
+
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*banner start*/
+
+.b_content h1{
+	font-size: 47px;
+
+}
+
+/*banner end*/
+
+/*edu1 start*/
+
+.c_title {
+	margin-bottom: 50px;
+}
+.c_title p {
+	font-size: 34px;
+	
+}
+.s_img{
+	margin-top: 43px;
+}
+.school a img{
+	width: 150px;
+}
+
+/*edu1 end*/
+
+
+/*kid start*/
+
+
+
+.kid_div{
+	padding: 15px 0;
+
+}
+.c_title h1 {
+    font-size: 35px;   
+}
+.kid_content{
+	text-align: left;
+}
+/*kid end*/
+
+
+
+ }
+
+ /*event_news start*/
+ .round_content{}
+ .round{}
+.e_content{
+
+}
+.e_title hr{
+    margin: 0 auto;
+}
+.p_r{}
+
+.news_content{}
+.news_content span{}
+.news_content p{}
+.n_tiitle{}
+.n_tiitle h1{
+	
+}
+
+
+
+ /*event_news end*/
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px)  and (max-width: 1440px){ 
+
+
+/*edu2 start*/
+
+.circle{
+	position: relative;	
+}
+.sc {
+	position: absolute;
+   	top: 0;
+    left: 88px;
+    border-radius: 50%;
+}
+/*edu2 end*/
+
+
+/*kid start*/
+
+.kid_div{
+	padding: 15px 0;
+
+}
+
+.kid_content{
+	text-align: left;
+}
+/*kid end*/
+/*footer start*/
+.footer_menu ul li a {}
+.footer_menu ul li{}
+.footer_menu
+/*footer end*/
+
+
+
+
+ }
